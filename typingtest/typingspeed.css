@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.background {
+    background-image: url('https://media.istockphoto.com/photos/typewriter-machine-in-retro-style-on-blue-background-picture-id1013764862?k=6&m=1013764862&s=612x612&w=0&h=Fvv7SHu0UZ3VfUNzWw7-BxezY38hRL6oOeNjERUYjeE=');
+    background-size: 900px;
+    height: 100%;
+    padding: 20px;
+}
+
+.heading {
+    color: #ff7700;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.tag {
+    color: #3e4c59;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.score-card {
+    display: flex;
+    justify-content: center;
+}
+
+.top {
+    display: flex;
+    padding-left: 100px;
+}
+
+.clock {
+    display: flex;
+}
+
+.image {
+    height: 80px;
+    width: 100px;
+}
+
+.time {
+    color: #ff7700;
+    padding-top: 20px;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.time-sec {
+    padding-top: 20px;
+}
+
+.quote {
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.card {
+    background-image: linear-gradient(to top, #ff7700, #5cddfa);
+    padding: 20px;
+    border-color: #9aa5b1;
+}
